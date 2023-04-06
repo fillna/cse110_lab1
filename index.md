@@ -21,8 +21,8 @@ Below is one of my favorite art pieces from **_The San Diego Museum of Art_ at B
 
 
 Lastly, my goals for CSE110 are:
--[ ] stay on top of course materials
--[ ] stay engaging
--[ ] stay calm
--[ ] write good code
--[ ] be creative
+- [ ] stay on top of course materials
+- [ ] stay engaging
+- [ ] stay calm
+- [ ] write good code
+- [ ] be creative
