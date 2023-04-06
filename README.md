@@ -2,4 +2,4 @@
 ## Jun's User Page
 ### My favorite programming language is Python.
 
-My [Github User Page](https://github.com/fillna/cse110_lab1/blob/prog_lang/index.md)
+My Github User Page: https://fillna.github.io/cse110_lab1/
