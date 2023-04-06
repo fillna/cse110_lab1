@@ -17,7 +17,7 @@ My favorite basketball team is the Golden State Warrior and my favorite player i
 
 Below is one of my favorite art pieces from **_The San Diego Museum of Art_ at Balboa Park**:
 > How do you define no faith?
-![myPicture](pic.jpeg)
+![myPicture](./pic.jpeg)
 
 
 Lastly, my goals for CSE110 are:
